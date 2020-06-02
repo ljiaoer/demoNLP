@@ -1,1 +1,1 @@
-# demoNLP
+# sentiment_analysis_EN_CN：中英文情感分析demo
